@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
