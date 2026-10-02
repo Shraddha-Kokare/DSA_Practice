@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
 | [0904-fruit-into-baskets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
@@ -67,4 +69,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
