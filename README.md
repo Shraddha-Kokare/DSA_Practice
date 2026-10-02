@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
