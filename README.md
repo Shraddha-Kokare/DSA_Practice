@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
+| [0260-single-number-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0260-single-number-iii) |
 | [0904-fruit-into-baskets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
 |  |
