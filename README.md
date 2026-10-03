@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0137-single-number-ii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
