@@ -1,26 +1,25 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> res=new ArrayList<>();
-        helper(n,"",res,0,0);
+        func(n,0,0,"",res);
         return res;
     }
 
-    public static void helper(int n, String curr, List<String> res, int open, int close)
+    public void func(int n, int open, int close, String curr, List<String> res)
     {
-        if(curr.length()==2*n)
+        if(curr.length()==n*2)
         {
             res.add(curr);
-            return;
         }
 
         if(open<n)
         {
-            helper(n,curr+"(",res,open+1,close);
+            func(n,open+1,close,curr+"(",res);
         }
 
         if(close<open)
         {
-            helper(n,curr+")",res,open,close+1);
+            func(n, open,close+1,curr+")",res);
         }
     }
 }
