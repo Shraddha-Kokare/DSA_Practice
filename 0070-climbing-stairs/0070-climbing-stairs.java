@@ -1,19 +1,23 @@
 class Solution {
     public int climbStairs(int n) {
-        Map<Integer, Integer> mem=new HashMap<>();
-        return climb(n,mem);
+        int[] dp=new int[n+1];
+        Arrays.fill(dp,-1);
+        return func(n,dp);
     }
 
-    private int climb(int n, Map<Integer, Integer> mp)
+    private int func(int n, int[] dp)
     {
         if(n==0 || n==1)
             return 1;
 
-        if(!mp.containsKey(n))
-        {
-            mp.put(n,climb(n-1,mp)+climb(n-2,mp));
-        }
+        if(dp[n]!=-1)
+            return dp[n];
 
-        return mp.get(n);
+        int one=func(n-1,dp);
+        int two=func(n-2,dp);
+
+        dp[n]=one+two;
+
+        return dp[n];
     }
 }
