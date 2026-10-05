@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0260-single-number-iii) |
 | [0904-fruit-into-baskets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
