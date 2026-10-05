@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
