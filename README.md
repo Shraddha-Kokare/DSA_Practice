@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0856-score-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0856-score-of-parentheses) |
 ## Enumeration
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
