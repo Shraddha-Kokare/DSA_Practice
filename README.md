@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0260-single-number-iii) |
 | [0904-fruit-into-baskets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0904-fruit-into-baskets) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
