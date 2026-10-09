@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0260-single-number-iii) |
 | [0904-fruit-into-baskets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0931-minimum-falling-path-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0079-word-search) |
+| [0931-minimum-falling-path-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0931-minimum-falling-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
