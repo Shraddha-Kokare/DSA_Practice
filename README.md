@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sliding Window
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Combinatorics
 |  |
 | ------- |
@@ -186,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0079-word-search) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
