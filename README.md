@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0260-single-number-iii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shraddha-Kokare/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
